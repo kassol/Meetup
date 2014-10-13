@@ -38,7 +38,7 @@ Database
 		<tr>
 			<td>kassol.zx@gmail.com</td>
 			<td>1</td>
-			<td>2014-10-26 13::00</td>
+			<td>2014-10-26 13:00</td>
 		</tr>
 	</tbody>
 </table>
